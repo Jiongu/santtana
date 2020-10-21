@@ -59,7 +59,7 @@ const footer = {
   data() {
     return {
       name: '2020 © Haruno',
-      version: 'Version 0.1',
+      version: 'Version 1.0',
       by: 'Jiongu Softhouse'
     }
   }
